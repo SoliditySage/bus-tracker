@@ -1,1 +1,1 @@
-# bus-tracker
+This is my attempt at the Real Time Bus Tracker exercise for the MIT xPRO coding course. I may be missing a few files as the project does not flow properly, but it includes most of the necessary code.
